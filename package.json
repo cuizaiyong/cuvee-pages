@@ -1,0 +1,46 @@
+{
+  "name": "cuvee-pages",
+  "version": "0.0.1",
+  "description": "A simple automated construction tool based on gulp.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cuizaiyong/gulp-demo.git"
+  },
+  "bugs": {
+    "url": "git@github.com:cuizaiyong/gulp-demo/issues"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "author": "CuveeCui <18280133086@163.com>",
+  "license": "MIT",
+  "homepage": "git@github.com:cuizaiyong/gulp-demo#readme",
+  "keywords": [
+    "Gulp",
+    "Tool",
+    "Swig",
+    "Browser-sync",
+    "Babel"
+  ],
+  "scripts": {},
+  "bin": {
+    "cuvee-pages": "bin/cuvee-pages.js"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.10.2",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-load-plugins": "^2.0.3",
+    "gulp-sass": "^4.1.0",
+    "gulp-swig": "^0.9.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^4.0.1"
+  }
+}
