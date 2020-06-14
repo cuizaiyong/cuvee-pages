@@ -1,6 +1,6 @@
 {
   "name": "cuvee-pages",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A simple automated construction tool based on gulp.",
   "main": "lib/index.js",
   "repository": {
@@ -29,6 +29,7 @@
     "cuvee-pages": "bin/cuvee-pages.js"
   },
   "dependencies": {
+    "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
     "browser-sync": "^2.26.7",
     "del": "^5.1.0",
