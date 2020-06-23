@@ -5,10 +5,10 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:cuizaiyong/gulp-demo.git"
+    "url": "git@github.com:cuizaiyong/cuvee-pages.git"
   },
   "bugs": {
-    "url": "git@github.com:cuizaiyong/gulp-demo/issues"
+    "url": "https://github.com/cuizaiyong/cuvee-pages/issues"
   },
   "files": [
     "lib",
@@ -16,7 +16,7 @@
   ],
   "author": "CuveeCui <18280133086@163.com>",
   "license": "MIT",
-  "homepage": "git@github.com:cuizaiyong/gulp-demo#readme",
+  "homepage": "https://github.com/cuizaiyong/cuvee-pages",
   "keywords": [
     "Gulp",
     "Tool",
